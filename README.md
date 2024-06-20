@@ -1,4 +1,4 @@
-# Unity-no-cena
+# Unity--cena
 
 Contexto: A cena mostra um astronauta que após desembarcar em um novo planeta é atacado por um fantasma que atira tiros de plasmas
 
@@ -40,7 +40,7 @@ Adicionei o elemento "Colisão" no astronauta e no laser,o que fez com que ao ex
 Por fim adicionei o Asset "Space Cargo Ship" para ser um elemento do cenário sendo a nave do astronauta
 ![Captura de tela 2024-06-20 190636](https://github.com/LucasSoaresdeAraujo/Unity--cena/assets/161390682/6d792198-7d3d-449c-994c-0f32645f2603)
 
-O resultado Final:
+# O resultado Final:
 ![Captura de tela 2024-06-04 121725](https://github.com/LucasSoaresdeAraujo/Unity--cena/assets/161390682/8dbea7ee-8eca-41b3-a0df-cdd3ba157119)
 
 
